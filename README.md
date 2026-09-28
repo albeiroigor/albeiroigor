@@ -4,23 +4,22 @@ Developer focused on building robust and efficient solutions. Passionate about p
 
 ### Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks:** Django, Flask, TUI Applications  
-**Tools:** Git, GitHub, Linux
+**Languages:** Python, JavaScript, Kotlin, HTML, CSS  
+**Frameworks:** FastAPI, SQLAlchemy, Alembic, TUI Applications  
+**Tools:** Git, GitHub, Linux, Docker
 
 ### Featured Projects
 
 - [dipsik-bot](https://github.com/albeiroigor/dipsik-bot) — Python bot with advanced features
 - [neolyrcs-py](https://github.com/albeiroigor/neolyrcs-py) — Terminal lyrics viewer (TUI)
-- [formylove](https://github.com/albeiroigor/formylove) — Interactive web project
 
 ### Interests
 
-Backend development | REST APIs | Terminal UI | Automation | Clean Code
+Backend development | REST APIs | Terminal UI | Automation | Clean Code | 
 
 ### Contact
 
-Email · [LinkedIn](https://linkedin.com/in/albeiroigor) · [GitHub](https://github.com/albeiroigor)
+albeiro.2000rivera@gmail.com · [GitHub](https://github.com/albeiroigor)
 
 ---
 
