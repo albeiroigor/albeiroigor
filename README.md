@@ -1,32 +1,27 @@
-## 🚀 Albeiro Igor
+## Albeiro Igor
 
-Desarrollador con enfoque en la creación de soluciones robustas y eficientes. Apasionado por la programación, tecnología y el aprendizaje continuo.
+Developer focused on building robust and efficient solutions. Passionate about programming, technology, and continuous learning.
 
-### 💻 Tech Stack
+### Tech Stack
 
-**Languages & Frameworks:**
-- Python · JavaScript · HTML · CSS
-- Django · Flask · TUI Applications
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Django, Flask, TUI Applications  
+**Tools:** Git, GitHub, Linux
 
-**Tools & Platforms:**
-- Git · GitHub · Linux
+### Featured Projects
 
-### 📌 Proyectos Destacados
+- [dipsik-bot](https://github.com/albeiroigor/dipsik-bot) — Python bot with advanced features
+- [neolyrcs-py](https://github.com/albeiroigor/neolyrcs-py) — Terminal lyrics viewer (TUI)
+- [formylove](https://github.com/albeiroigor/formylove) — Interactive web project
 
-- **[dipsik-bot](https://github.com/albeiroigor/dipsik-bot)** — Bot Python con funcionalidades avanzadas
-- **[neolyrcs-py](https://github.com/albeiroigor/neolyrcs-py)** — Visor de letras de canciones en terminal (TUI)
-- **[formylove](https://github.com/albeiroigor/formylove)** — Proyecto web interactivo
+### Interests
 
-### 🎯 Intereses
+Backend development | REST APIs | Terminal UI | Automation | Clean Code
 
-Desarrollo backend · APIs REST · Terminal UI · Automatización · Clean Code
+### Contact
 
-### 📞 Contacto
-
-📧 Email · 💼 [LinkedIn](tu-linkedin) · 🐙 [GitHub](https://github.com/albeiroigor)
+Email · [LinkedIn](https://linkedin.com/in/albeiroigor) · [GitHub](https://github.com/albeiroigor)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albeiroigor&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albeiroigor&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/albeiroigor)
