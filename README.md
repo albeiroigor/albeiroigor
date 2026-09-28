@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🚀 Albeiro Igor
 
-<!--
-**albeiroigor/albeiroigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador con enfoque en la creación de soluciones robustas y eficientes. Apasionado por la programación, tecnología y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:**
+- Python · JavaScript · HTML · CSS
+- Django · Flask · TUI Applications
+
+**Tools & Platforms:**
+- Git · GitHub · Linux
+
+### 📌 Proyectos Destacados
+
+- **[dipsik-bot](https://github.com/albeiroigor/dipsik-bot)** — Bot Python con funcionalidades avanzadas
+- **[neolyrcs-py](https://github.com/albeiroigor/neolyrcs-py)** — Visor de letras de canciones en terminal (TUI)
+- **[formylove](https://github.com/albeiroigor/formylove)** — Proyecto web interactivo
+
+### 🎯 Intereses
+
+Desarrollo backend · APIs REST · Terminal UI · Automatización · Clean Code
+
+### 📞 Contacto
+
+📧 Email · 💼 [LinkedIn](tu-linkedin) · 🐙 [GitHub](https://github.com/albeiroigor)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albeiroigor&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</div>
